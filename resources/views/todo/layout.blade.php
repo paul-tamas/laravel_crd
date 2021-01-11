@@ -8,7 +8,7 @@
 </head>
 <body>
 <div class="jumbotron text-center">
-  <h1> Dashboard</h1>
+  <h1>Crud application</h1>
 </div>
   
 <div class="container">
